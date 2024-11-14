@@ -76,6 +76,7 @@ import pytools as pt
 import numpy as np
 import operator as oper
 import logging
+import scipy 
 
 # constants
 Re = 6371e3
